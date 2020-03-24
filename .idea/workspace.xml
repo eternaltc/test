@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ac2f48b-579a-4a4c-8f7c-3dab2218c7e1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestCode">
+      <favorite_root url="file://$PROJECT_DIR$/Test/File/file07_.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vv8BNVbQq1pXxDqJhbHZ6tg0Pp" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test/File" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\学习\python学习\学习笔记\TestCode\Test\File" />
+      <recent name="E:\学习\python学习\学习笔记\TestCode\Test\Oop" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\学习\python学习\学习笔记\TestCode\Test" />
+      <recent name="E:\学习\python学习\学习笔记\TestCode\Test\Oop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.os05_shutil">
+    <configuration name="os02_dir" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/Os" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Os/os02_dir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="os03_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/Os" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Os/os03_path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="os03_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/Os" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Os/os03_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="os04_walk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/Os" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Os/os04_walk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="os05_shutil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/Os" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Os/os05_shutil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.os05_shutil" />
+        <item itemvalue="Python.os04_walk" />
+        <item itemvalue="Python.os03_path" />
+        <item itemvalue="Python.os03_test" />
+        <item itemvalue="Python.os02_dir" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ac2f48b-579a-4a4c-8f7c-3dab2218c7e1" name="Default Changelist" comment="" />
+      <created>1578122071641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578122071641</updated>
+      <workItem from="1578122072852" duration="12200000" />
+      <workItem from="1578275361607" duration="79000" />
+      <workItem from="1580358850894" duration="5721000" />
+      <workItem from="1580788943842" duration="639000" />
+      <workItem from="1581833330285" duration="8311000" />
+      <workItem from="1581902052398" duration="15041000" />
+      <workItem from="1581958085375" duration="4018000" />
+      <workItem from="1582173918033" duration="7075000" />
+      <workItem from="1582610252524" duration="1902000" />
+      <workItem from="1582686647651" duration="13765000" />
+      <workItem from="1582712697942" duration="2937000" />
+      <workItem from="1582785709049" duration="10779000" />
+      <workItem from="1582861042276" duration="7419000" />
+      <workItem from="1583115007403" duration="5113000" />
+      <workItem from="1583306628023" duration="1115000" />
+      <workItem from="1584338806360" duration="9275000" />
+      <workItem from="1584601350316" duration="1296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test/Exception/except11.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="num2" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestCode$func04_object.coverage" NAME="func04_object Coverage Results" MODIFIED="1578125807365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$func09.coverage" NAME="func09 Coverage Results" MODIFIED="1578158571459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$oop04_classmethod.coverage" NAME="oop04_classmethod Coverage Results" MODIFIED="1581863391431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$os03_test.coverage" NAME="os03_test Coverage Results" MODIFIED="1584344010150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Os" />
+    <SUITE FILE_PATH="coverage/TestCode$oop16_str.coverage" NAME="oop16_str Coverage Results" MODIFIED="1581919190958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$oop24_GOF23.coverage" NAME="oop24_GOF23 Coverage Results" MODIFIED="1581960784379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$os01_system.coverage" NAME="os01_system Coverage Results" MODIFIED="1584338816885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Os" />
+    <SUITE FILE_PATH="coverage/TestCode$file06_for.coverage" NAME="file06_for Coverage Results" MODIFIED="1582809243725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$func05_efficiency.coverage" NAME="func05_efficiency Coverage Results" MODIFIED="1578128944383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$main.coverage" NAME="main Coverage Results" MODIFIED="1582174873674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/RedAir/工作/项目/不可预期燃油/manual" />
+    <SUITE FILE_PATH="coverage/TestCode$func12_recursion.coverage" NAME="func12_recursion Coverage Results" MODIFIED="1580361143761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$except08_trackback.coverage" NAME="except08_trackback Coverage Results" MODIFIED="1582707158198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$file11_csv.coverage" NAME="file11_csv Coverage Results" MODIFIED="1583116959130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$oop11_property.coverage" NAME="oop11_property Coverage Results" MODIFIED="1581907649967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$oop09_private.coverage" NAME="oop09_private Coverage Results" MODIFIED="1581904037642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$oop08_dynamic.coverage" NAME="oop08_dynamic Coverage Results" MODIFIED="1581902939843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$os04_walk.coverage" NAME="os04_walk Coverage Results" MODIFIED="1584349658088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Os" />
+    <SUITE FILE_PATH="coverage/TestCode$func08_copyParameter.coverage" NAME="func08_copyParameter Coverage Results" MODIFIED="1578157211278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$oop15_dir.coverage" NAME="oop15_dir Coverage Results" MODIFIED="1581918329366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$except10_breaking_point.coverage" NAME="except10_breaking point Coverage Results" MODIFIED="1582709780346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$except09_user_defined_Exception.coverage" NAME="except09_user-defined Exception Coverage Results" MODIFIED="1582708172710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$file09_seek.coverage" NAME="file09_seek Coverage Results" MODIFIED="1582875774138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$file05_with.coverage" NAME="file05_with Coverage Results" MODIFIED="1582806342999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$oop12_inherit.coverage" NAME="oop12_inherit Coverage Results" MODIFIED="1581908877984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$file02_chinese.coverage" NAME="file02_chinese Coverage Results" MODIFIED="1582804492060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$oop10_property.coverage" NAME="oop10_property Coverage Results" MODIFIED="1581905307241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$oop01.coverage" NAME="oop01 Coverage Results" MODIFIED="1583307280897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$file01.coverage" NAME="file01 Coverage Results" MODIFIED="1582804504990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$func14_legb.coverage" NAME="func14_legb Coverage Results" MODIFIED="1580363927430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$oop02.coverage" NAME="oop02 Coverage Results" MODIFIED="1581843737421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$func09_parameterType.coverage" NAME="func09_parameterType Coverage Results" MODIFIED="1578157250550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$except05_try_finally.coverage" NAME="except05_try_finally Coverage Results" MODIFIED="1582703475381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$file08_bfile.coverage" NAME="file08_bfile Coverage Results" MODIFIED="1582869233734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$flie06_read.coverage" NAME="flie06_read Coverage Results" MODIFIED="1582808879426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$oop21_copy.coverage" NAME="oop21_copy Coverage Results" MODIFIED="1581958971526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$func03_return.coverage" NAME="func03_return Coverage Results" MODIFIED="1578122674458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$oop20_Operator_overloading.coverage" NAME="oop20_Operator_overloading Coverage Results" MODIFIED="1581928264858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$file06_readline.coverage" NAME="file06_readline Coverage Results" MODIFIED="1582808743544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$oop19_polymorphism.coverage" NAME="oop19_polymorphism Coverage Results" MODIFIED="1581921716583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$except03_moreExcept.coverage" NAME="except03_moreExcept Coverage Results" MODIFIED="1582702805587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$except07_with.coverage" NAME="except07_with Coverage Results" MODIFIED="1582706724169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$file10_pickle_dum.coverage" NAME="file10_pickle_dum Coverage Results" MODIFIED="1582877620540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$func06_parameter_immutable.coverage" NAME="func06_parameter_immutable Coverage Results" MODIFIED="1578129884818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$except02.coverage" NAME="except02 Coverage Results" MODIFIED="1582701254486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$oop14_mro.coverage" NAME="oop14_mro Coverage Results" MODIFIED="1581917877969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$file03_write___writelines__.coverage" NAME="file03_write()_writelines() Coverage Results" MODIFIED="1582805011464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$os03_path.coverage" NAME="os03_path Coverage Results" MODIFIED="1584349023698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Os" />
+    <SUITE FILE_PATH="coverage/TestCode$except04_try_else.coverage" NAME="except04_try_else Coverage Results" MODIFIED="1582702942451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$except11.coverage" NAME="except11 Coverage Results" MODIFIED="1582709964645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$file07_enumerate.coverage" NAME="file07_enumerate Coverage Results" MODIFIED="1582811064170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$func07_copy.coverage" NAME="func07_copy Coverage Results" MODIFIED="1578155209357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$oop17_more_inherit.coverage" NAME="oop17_more_inherit Coverage Results" MODIFIED="1581919984168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$os02_dir.coverage" NAME="os02_dir Coverage Results" MODIFIED="1584340488155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Os" />
+    <SUITE FILE_PATH="coverage/TestCode$fun13_nest.coverage" NAME="fun13_nest Coverage Results" MODIFIED="1580363395366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$oop05_staticmethod.coverage" NAME="oop05_staticmethod Coverage Results" MODIFIED="1581863043489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$except06_return.coverage" NAME="except06_return Coverage Results" MODIFIED="1582703938044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$func02_max.coverage" NAME="func02_max Coverage Results" MODIFIED="1578124535592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$exception01.coverage" NAME="exception01 Coverage Results" MODIFIED="1582611284828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Exception" />
+    <SUITE FILE_PATH="coverage/TestCode$oop22_consists.coverage" NAME="oop22_consists Coverage Results" MODIFIED="1581959746893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$oop26_test24_25.coverage" NAME="oop26_test24+25 Coverage Results" MODIFIED="1581962009599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$os05_shutil.coverage" NAME="os05_shutil Coverage Results" MODIFIED="1584351599082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Os" />
+    <SUITE FILE_PATH="coverage/TestCode$func06_parameter_mutable.coverage" NAME="func06_parameter_mutable Coverage Results" MODIFIED="1578129008321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$func_globalVariable.coverage" NAME="func_globalVariable Coverage Results" MODIFIED="1578127907765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Function" />
+    <SUITE FILE_PATH="coverage/TestCode$oop25_Sington.coverage" NAME="oop25_Sington Coverage Results" MODIFIED="1581962066104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$file04_try_except_close.coverage" NAME="file04_try_except_close Coverage Results" MODIFIED="1582806053455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$file07_enumerateText.coverage" NAME="file07_enumerateText Coverage Results" MODIFIED="1582811055954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$oop13_inherit.coverage" NAME="oop13_inherit Coverage Results" MODIFIED="1581909199291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$oop17_mro___inherit.coverage" NAME="oop17_mro()_inherit Coverage Results" MODIFIED="1581930066722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$oop03_obj.coverage" NAME="oop03_obj Coverage Results" MODIFIED="1581861458506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$file06_read_.coverage" NAME="file06_read- Coverage Results" MODIFIED="1582868888605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$oop18_super.coverage" NAME="oop18_super Coverage Results" MODIFIED="1581921233739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$file07_.coverage" NAME="file07_ Coverage Results" MODIFIED="1582809981074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/File" />
+    <SUITE FILE_PATH="coverage/TestCode$oop06_del____.coverage" NAME="oop06_del__() Coverage Results" MODIFIED="1581864081978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$oop07_call___.coverage" NAME="oop07_call_() Coverage Results" MODIFIED="1581864941215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+    <SUITE FILE_PATH="coverage/TestCode$oop23_consists.coverage" NAME="oop23_consists Coverage Results" MODIFIED="1581959966314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test/Oop" />
+  </component>
+</project>
